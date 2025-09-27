@@ -1,0 +1,72 @@
+h1 {
+    background-color: rgb(34, 1, 34);
+    color: yellow;
+    padding: 100px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    /* margin-top: 100px; */
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    border: orange 50px solid;
+    text-align: center;
+}
+section
+{
+    background-color: rgb(0, 255, 47);
+    color: black;
+    padding: 50px;
+    margin: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border: rgb(255, 0, 43) 25px solid;
+    text-align: center;
+}
+nav {
+    width: 400px;
+    height: 100px;
+    background-color: rgb(194, 111, 194);
+    margin-bottom: 1PX;
+    padding-right: 700px;
+
+}
+a {
+    color: rgb(255, 73, 103);
+    background-color: black;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 100px;
+    margin: 10px;
+}
+
+.seccion_tres {
+    background-color: orangered;
+    border: beige 1px solid;
+}
+#jesus {
+    background-color: rgb(255, 23, 182);
+    pdding: 20px;
+}
+p {
+    background-color: rgb(138, 90, 0);
+    padding: 200px;
+}
+article {
+    background-color: rgb(72, 43, 9);
+    height: 85px;
+    font-size: 50px;
+    color: yellow;
+    
+}
+article h2 {
+
+    background-color: rgb(47, 90, 2);
+    color: black;
+    height: 100px;
+    font-size: 50px;
+    
+}
